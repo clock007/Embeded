@@ -1,0 +1,17 @@
+System Properties:
+       
+   Operating System:
+       Name: Raspbian GNU/Linux
+       Version=9 Strch
+   
+   Front-End:
+       qml
+   Back-End:
+       c++
+
+   GPIO Protocols:
+       I2C(Hardware Clock)
+       SPI(Extended Bord Information)
+       SerialPort_ttyS0(Printer Module):
+
+
